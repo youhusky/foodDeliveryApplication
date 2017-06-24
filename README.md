@@ -91,3 +91,6 @@ Response:
 	Seen in uploadTest.json
 	
 ## Explanations
+1. Start the whole server user, restaurant and post the information 
+2. There are two databases order and payment
+3. When customers post the order, it will store all information in the order database and it will go into the payment server. Payment server read the data from the order databases and store the payment data into the payment databases
