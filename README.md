@@ -2,6 +2,10 @@
 
 ## Dependencies
 	pom.xml
+	
+## Architecture Design
+![fooddeliveryservice](https://user-images.githubusercontent.com/10191895/27505768-f13bb228-585c-11e7-9281-0a56cfa869c5.jpg)
+
 ## REST_API Design
 ### Resource Restaurant
 
@@ -81,3 +85,9 @@ Response:
 	userId
 }
 ```
+## Project Structure
+	Seen in Github folder
+## Test Cases
+	Seen in uploadTest.json
+	
+## Explanations
