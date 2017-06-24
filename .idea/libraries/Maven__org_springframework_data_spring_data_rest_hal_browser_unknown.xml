@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.data:spring-data-rest-hal-browser:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-rest-hal-browser/unknown/spring-data-rest-hal-browser-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-rest-hal-browser/unknown/spring-data-rest-hal-browser-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-rest-hal-browser/unknown/spring-data-rest-hal-browser-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

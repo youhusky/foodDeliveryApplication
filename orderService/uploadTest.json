@@ -1,0 +1,14 @@
+[
+  { "deliveryAddress": "1122 Street, CA",
+    "items":
+    [
+        {
+          "restaurant_Id": 1,
+          "foodItem": 2,
+          "quantity": 1,
+          "price": 8.23,
+          "note": "Hot"
+        }
+    ]
+  }
+]

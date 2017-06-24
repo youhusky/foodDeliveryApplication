@@ -1,0 +1,30 @@
+[
+  {
+    "restaurantName": "aab",
+    "address": "1112 Vermont",
+    "menus":[
+      {
+        "foodName": "pizza",
+        "price": 4.32
+      },
+      {
+        "foodName": "apple",
+        "price": 5.67
+      }
+    ]
+  },
+  {
+    "restaurantName": "aab1",
+    "address": "11 Vermont",
+    "menus":[
+      {
+        "foodName": "pizza1",
+        "price": 41.32
+      },
+      {
+        "foodName": "apple1",
+        "price": 51.67
+      }
+    ]
+  }
+]
